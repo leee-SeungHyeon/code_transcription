@@ -494,6 +494,7 @@ MiscFeature: Miscellaneous feature not covered in other categories
        TenC	Tennis Court
        NA	None
 		
+              
 MiscVal: $Value of miscellaneous feature
 
 MoSold: Month Sold (MM)
